@@ -1,0 +1,34 @@
+
+
+* { margin: 0; padding: 0;}
+
+
+
+
+.App {
+  width:100%;
+  height:100px;
+  background-color: rgb(78, 243, 56); color: rgb(52, 7, 112);
+  
+}
+.app ul{
+  height: 100px;
+  width: 100px;
+  background: #091802; color:white;
+}
+
+
+.App ul{
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+.App ul li{
+  list-style: none;
+  text-transform: uppercase;
+  color: azure;
+}
+
+
